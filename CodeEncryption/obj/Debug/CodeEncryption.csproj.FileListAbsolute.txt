@@ -1,0 +1,9 @@
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\bin\Debug\CodeEncryption.exe.config
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\bin\Debug\CodeEncryption.exe
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\bin\Debug\CodeEncryption.pdb
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\obj\Debug\CodeEncryption.csprojResolveAssemblyReference.cache
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\obj\Debug\CodeEncryption.Form1.resources
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\obj\Debug\CodeEncryption.Properties.Resources.resources
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\obj\Debug\CodeEncryption.csproj.GenerateResource.Cache
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\obj\Debug\CodeEncryption.exe
+D:\Asif_CisWorkspace\CodeEncryption\CodeEncryption\obj\Debug\CodeEncryption.pdb
